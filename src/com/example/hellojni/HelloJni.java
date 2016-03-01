@@ -32,6 +32,7 @@ public class HelloJni extends Activity
          * the text is retrieved by calling a native
          * function.
          */
+        stringFromJNI();
         TextView  tv = new TextView(this);
         tv.setText( stringFromJNI() );
         setContentView(tv);

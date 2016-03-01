@@ -1,170 +1,202 @@
-/home/andy/Documents/eclipseworkspace/HelloJni/obj/local/armeabi/objs-debug/hello-jni/hello-jni.o: \
- /home/andy/Documents/eclipseworkspace/HelloJni/jni/hello-jni.c \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/jni.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/stdio.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/cdefs.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/cdefs_elf.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/android/api-level.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/_types.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/machine/_types.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/types.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/stdint.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/posix_types.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/stddef.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/compiler.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/posix_types.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/types.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/types.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/machine/kernel.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/sysmacros.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/stdlib.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/string.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/malloc.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/alloca.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/strings.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/memory.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/ptrace.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/user.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/page.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/wait.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/resource.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/resource.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/time.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/resource.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/resource.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/wait.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/mman.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/mman.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/mman.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/mman-common.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/dlfcn.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/dirent.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/unistd.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/select.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/time.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/signal.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/limits.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/limits.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/limits.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/machine/internal_types.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/machine/limits.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/syslimits.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/signal.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/signal.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/siginfo.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/siginfo.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/sysconf.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/capability.h \
- /usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/pathconf.h
+obj/local/armeabi/objs-debug/hello-jni/hello-jni.o: jni/hello-jni.c \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/jni.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/cdefs.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/cdefs_elf.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/android/api-level.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/stdio.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/types.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/stdint.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/_types.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/machine/_types.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/_wchar_limits.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/posix_types.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/stddef.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/compiler.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/posix_types.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/types.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/types.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/machine/kernel.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/sysmacros.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/stdlib.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/string.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/malloc.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/alloca.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/strings.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/memory.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/ptrace.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/user.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/user.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/limits.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/limits.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/limits.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/machine/internal_types.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/machine/limits.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/syslimits.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/page.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/wait.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/resource.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/resource.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/time.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/resource.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/resource.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/wait.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/unistd.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/syscall.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/errno.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/errno.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/errno.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/errno.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/errno-base.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/mman.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/mman.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/mman.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/mman-common.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/dlfcn.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/dirent.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/unistd.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/select.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/time.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/signal.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/signal.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/signal.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/siginfo.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/siginfo.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/ucontext.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/sigcontext.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/sysconf.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/capability.h \
+ F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/pathconf.h
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/jni.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/jni.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/stdio.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/cdefs.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/cdefs.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/cdefs_elf.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/cdefs_elf.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/android/api-level.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/android/api-level.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/stdio.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/_types.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/types.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/machine/_types.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/stdint.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/types.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/_types.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/stdint.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/machine/_types.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/posix_types.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/_wchar_limits.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/stddef.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/posix_types.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/compiler.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/stddef.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/posix_types.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/compiler.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/types.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/posix_types.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/types.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/types.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/machine/kernel.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/types.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/sysmacros.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/machine/kernel.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/stdlib.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/sysmacros.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/string.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/stdlib.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/malloc.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/string.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/alloca.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/malloc.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/strings.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/alloca.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/memory.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/strings.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/ptrace.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/memory.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/user.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/ptrace.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/page.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/user.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/wait.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/user.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/resource.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/limits.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/resource.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/limits.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/time.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/limits.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/resource.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/machine/internal_types.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/resource.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/machine/limits.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/wait.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/syslimits.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/mman.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/page.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/mman.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/wait.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/mman.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/resource.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/mman-common.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/resource.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/dlfcn.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/time.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/dirent.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/resource.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/unistd.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/resource.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/select.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/wait.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/time.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/unistd.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/signal.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/syscall.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/limits.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/errno.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/limits.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/errno.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/limits.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/errno.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/machine/internal_types.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/errno.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/machine/limits.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/errno-base.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/syslimits.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/mman.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/signal.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/mman.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/signal.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/mman.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm/siginfo.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/mman-common.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/asm-generic/siginfo.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/dlfcn.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/sys/sysconf.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/dirent.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/linux/capability.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/unistd.h:
 
-/usr/ndk/android-ndk-r8d/platforms/android-5/arch-arm/usr/include/pathconf.h:
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/select.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/time.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/signal.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/signal.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/signal.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/siginfo.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm-generic/siginfo.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/ucontext.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/asm/sigcontext.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/sys/sysconf.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/linux/capability.h:
+
+F:/BaiduYunDownload/android-ndk-r10e/platforms/android-5/arch-arm/usr/include/pathconf.h:
